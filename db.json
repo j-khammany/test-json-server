@@ -1,0 +1,21 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+  ,
+  "InstallTypes": [
+    { "id": 1, "type": "Unknown" },
+    { "id": 2, "type": "Vessel" },
+    { "id": 3, "type": "ROC_Shore" },
+    { "id": 4, "type": "ROC_Cloud" }
+  ]
+  ,
+  "InstallType": [
+    { "id": "TEST1", "type": "Unknown" },
+    { "id": "TEST2", "type": "Vessel" }
+  ]
+}
