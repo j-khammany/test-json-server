@@ -20,11 +20,11 @@
     { "id": 5, "mode": "Recovery" }
   ],
   "assetmode": [
-    { "id": 1, "mode": "Undefined" },
-    { "id": 2, "mode": "InTransit" },
-    { "id": 3, "mode": "Operation" },
-    { "id": 4, "mode": "Launch" },
-    { "id": 5, "mode": "Recovery" }
+    { "id": 1, "ModeType": "Undefined" },
+    { "id": 2, "ModeType": "InTransit" },
+    { "id": 3, "ModeType": "Operation" },
+    { "id": 4, "ModeType": "Launch" },
+    { "id": 5, "ModeType": "Recovery" }
   ],
   "purposes": [
     { "id": 1, "purpose": "Undefined" },
