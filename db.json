@@ -1,11 +1,9 @@
 {
   "InstallTypes": [
-    [
-      { "id": 1, "type": "Unknown" },
-      { "id": 2, "type": "Vessel" },
-      { "id": 3, "type": "ROC_Shore" },
-      { "id": 4, "type": "ROC_Cloud" }
-    ],
+    { "id": 1, "type": "Unknown" },
+    { "id": 2, "type": "Vessel" },
+    { "id": 3, "type": "ROC_Shore" },
+    { "id": 4, "type": "ROC_Cloud" }
   ],
   "AssetModes": [
     { "id": 1, "mode": "Undefined" },
