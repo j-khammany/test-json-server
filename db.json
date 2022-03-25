@@ -12,7 +12,14 @@
     { "id": 3, "type": "ROC_Shore" },
     { "id": 4, "type": "ROC_Cloud" }
   ],
-  "AssetModes": [
+  "assetmodes": [
+    { "id": 1, "mode": "Undefined" },
+    { "id": 2, "mode": "InTransit" },
+    { "id": 3, "mode": "Operation" },
+    { "id": 4, "mode": "Launch" },
+    { "id": 5, "mode": "Recovery" }
+  ],
+  "assetmode": [
     { "id": 1, "mode": "Undefined" },
     { "id": 2, "mode": "InTransit" },
     { "id": 3, "mode": "Operation" },
