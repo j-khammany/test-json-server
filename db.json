@@ -6,8 +6,6 @@
       { "id": 3, "type": "ROC_Shore" },
       { "id": 4, "type": "ROC_Cloud" }
     ],
-    { "id": "TEST1", "type": "Unknown" },
-    { "id": "TEST2", "type": "Vessel" }
   ],
   "AssetModes": [
     { "id": 1, "mode": "Undefined" },
@@ -16,18 +14,11 @@
     { "id": 4, "mode": "Launch" },
     { "id": 5, "mode": "Recovery" },
   ],
-  "AssetMode": [
-    { "id": "TEST1", "mode": "Undefined" },
-    { "id": "TEST2", "mode": "InTransit" },
-    { "id": "TEST3", "mode": "Operation" },
-    { "id": "TEST4", "mode": "Launch" },
-    { "id": "TEST5", "mode": "Recovery" },
-  ],
   "purposes": [
-    { "id": "TEST1", "purpose": "Undefined" },
-    { "id": "TEST2", "purpose": "InTransit" },
-    { "id": "TEST3", "purpose": "Operation" },
-    { "id": "TEST4", "purpose": "Launch" },
-    { "id": "TEST5", "purpose": "Recovery" },
+    { "id": "1", "purpose": "Undefined" },
+    { "id": "2", "purpose": "InTransit" },
+    { "id": "3", "purpose": "Operation" },
+    { "id": "4", "purpose": "Launch" },
+    { "id": "5", "purpose": "Recovery" },
   ],
 }
