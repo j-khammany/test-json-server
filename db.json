@@ -1,10 +1,10 @@
 {
   "otac": [
-      {"id": 1 },  
-      {"id": 2 },  
-      {"id": 3 },  
-      {"id": 4 },  
-      {"id": 5 }
+      {"OtacId": 1, "OtacName": "OTAC1" },  
+      {"OtacId": 2, "OtacName": "OTAC2" },  
+      {"OtacId": 3, "OtacName": "OTAC3" },  
+      {"OtacId": 4, "OtacName": "OTAC4" },  
+      {"OtacId": 5, "OtacName": "OTAC5" }
    ],
   "InstallTypes": [
     { "id": 1, "type": "Unknown" },
