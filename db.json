@@ -10,13 +10,13 @@
     { "id": 2, "mode": "InTransit" },
     { "id": 3, "mode": "Operation" },
     { "id": 4, "mode": "Launch" },
-    { "id": 5, "mode": "Recovery" },
+    { "id": 5, "mode": "Recovery" }
   ],
   "purposes": [
     { "id": "1", "purpose": "Undefined" },
     { "id": "2", "purpose": "InTransit" },
     { "id": "3", "purpose": "Operation" },
     { "id": "4", "purpose": "Launch" },
-    { "id": "5", "purpose": "Recovery" },
+    { "id": "5", "purpose": "Recovery" }
   ]
 }
